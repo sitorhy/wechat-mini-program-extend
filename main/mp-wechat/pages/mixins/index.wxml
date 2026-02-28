@@ -1,9 +1,0 @@
-<view>
-    <mixins-component-01/>
-</view>
-<view>
-    <mixins-component-02/>
-</view>
-<view>
-    <mixins-component-03/>
-</view>

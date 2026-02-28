@@ -1,9 +1,0 @@
-.red-text {
-    color: red;
-}
-
-.line {
-    text-align: center;
-    font-size: 16px;
-    padding: 5px 20px;
-}

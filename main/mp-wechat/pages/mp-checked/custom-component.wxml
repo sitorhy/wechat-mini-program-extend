@@ -1,8 +1,0 @@
-<view>
-    <view>
-        <text class="font-cls">{{A[0].B}}</text>
-    </view>
-    <view>
-        <button type="primary" bind:tap="onMyButtonTap"><text>{{word}}</text></button>
-    </view>
-</view>

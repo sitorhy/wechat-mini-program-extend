@@ -1,5 +1,0 @@
-<view style="margin-left:30px;">
-    <button type="primary" bind:tap="checkLevel">Level 2</button>
-    <button type="warn" bind:tap="checkChildren">Level 2</button>
-    <slot></slot>
-</view>

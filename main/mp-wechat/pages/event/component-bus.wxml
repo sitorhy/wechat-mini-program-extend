@@ -1,6 +1,0 @@
-<view>
-    <slot></slot>
-    <button type="primary" bind:tap="checkLevel">Level 1</button>
-    <button type="warn" bind:tap="checkChildren">Level 1</button>
-    <button type="warn" bind:tap="broadcast">广播</button>
-</view>

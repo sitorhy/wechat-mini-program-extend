@@ -1,5 +1,0 @@
-<view style="margin-left:60rpx;">
-    <!--pages/relations/child.wxml-->
-    <text>pages/relations/child.wxml</text>
-    <slot></slot>
-</view>

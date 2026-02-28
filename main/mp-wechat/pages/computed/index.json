@@ -1,6 +1,0 @@
-{
-  "usingComponents": {
-    "doubleBase": "./doubleBase",
-    "changePropNum": "./changePropNum"
-  }
-}

@@ -1,3 +1,0 @@
-<view style="{{baseStyle}}">
-    <slot></slot>
-</view>

@@ -1,7 +1,0 @@
-<h-box justifyContent="space-between">
-    <h-box>
-        <text>Left</text>
-        <text>Left</text>
-    </h-box>
-    <text>Right</text>
-</h-box>

@@ -1,5 +1,0 @@
-<view class="view">
-    <view class="view">Provider timestamp = {{timestamp}}</view>
-    <button type="primary" bind:tap="updateTime">Provider 更新</button>
-    <slot></slot>
-</view>

@@ -1,4 +1,0 @@
-<view>
-    <text>pages/relations/top.wxml</text>
-    <slot></slot>
-</view>

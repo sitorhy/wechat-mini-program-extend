@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "parent": "./parent",
-    "top": "./top",
-    "child": "./child"
-  }
-}
