@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":[],"mappings":";;;;;;;AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"index.js","sourcesContent":["\nObject.defineProperty(exports, \"__esModule\", { value: true });\nexports.defineComponent = defineComponent;\nfunction defineComponent(options) {\n    console.log(114154);\n    return options;\n}\n"]}
